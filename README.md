@@ -1,13 +1,13 @@
-<h1 align="center">Hi there👋!, I'm Lukas</h1>
-<h3 align="center">A fullstack developer from Canada</h3>
+<h1 align="center">Hi there!, I'm Lukas</h1>
+<h3 align="center">A fullstack developer from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on [a project called Chef.AI](https://github.com/lukasboz/AI-Chef)
 
 - 🌱 I’m currently learning about **Defensive Cybersecurity, Artificial Intelligence, and Blockchain technologies**
 
-- 👨‍💻 All of my projects are available at [https://lukasboz.github.io/](https://lukasboz.github.io/)
+- 👨‍💻 All of my projects are available at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
 
-- 💬 Ask me about **Machine Learning, Full-stack development, esoteric programming languages, and Web 3.0!**
+- 💬 Ask me about **Machine Learning, Full-stack development, esoteric programming languages, and Web 3.0!** 🚀
 
 - 📫 How to reach me: **lukasbozinov@gmail.com**
 
