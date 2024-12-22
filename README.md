@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!, I'm Lukas</h1>
+<h1 align="center">Hi there, I'm Lukas!</h1>
 <h3 align="center">A fullstack developer from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on [a project called Chef.AI](https://github.com/lukasboz/AI-Chef)
