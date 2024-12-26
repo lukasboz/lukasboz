@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Defensive Cybersecurity, Artificial Intelligence, and Blockchain technologies**
 
-- 👨‍💻 All of my projects are avhttps://www.notion.so/4d8688170ce34689a9b23d59162bc8e3ailable at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
+- 👨‍💻 All of my projects are available at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
 
 - 💬 Ask me about **Machine Learning, Full-stack development, esoteric programming languages, and Web 3.0!** 🚀
 
