@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Defensive Cybersecurity, Artificial Intelligence, and Blockchain technologies**
 
-- 👨‍💻 All of my projects are available at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
+- 👨‍💻 All of my projects are avhttps://www.notion.so/4d8688170ce34689a9b23d59162bc8e3ailable at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
 
 - 💬 Ask me about **Machine Learning, Full-stack development, esoteric programming languages, and Web 3.0!** 🚀
 
@@ -24,4 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasboz&theme=ayu-mirage&hide_border=true&&hide=assembly&include_all_commits=true&count_private=true&layout=donut" align="center" height="150" alt="languages graph"  />
 </p>
 
-<img src="https://raw.githubusercontent.com/lukasboz/snake.yml" align="center" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lukasboz/lukasboz/output/snake.svg" align="center" alt="Snake animation" />
