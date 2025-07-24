@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lukas!</h1>
 <h3 align="center">A fullstack developer from Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on [a project called Chef.AI](https://github.com/lukasboz/AI-Chef)
+- 🔭 I’m currently working on [a project called ReelBot](https://github.com/lukasboz/reels-bot)
 
 - 🌱 I’m currently learning about **Defensive Cybersecurity, Artificial Intelligence, and Blockchain technologies**
 
