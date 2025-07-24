@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **lukasbozinov@gmail.com**
 
-- 📄 Read about my work and project experience: [View my resume](https://github.com/lukasboz/lukasboz/blob/main/LukasResumeUpdated-4.pdf)
+- 📄 Read about my work and project experience: [View my resume](https://github.com/lukasboz/lukasboz/blob/main/lukas-resume.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
