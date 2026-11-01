@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lukas!</h1>
-<h3 align="center">A fullstack developer from Canada 🇨🇦</h3>
+<h3 align="center">A fullstack developer from Canada</h3>
 
 - 👨‍💻 All of my projects are available at [https://lukasboz.github.io/](https://lukasboz.github.io/) 
 
